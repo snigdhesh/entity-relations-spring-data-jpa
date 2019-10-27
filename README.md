@@ -1,7 +1,8 @@
 # entity-relations-spring-data-jpa
 This project demonstrates **how to map relations between entities** using spring-data-jpa
 
-# sources:
+# Referred sources:
+ - For entity relations : https://vladmihalcea.com/jpa-hibernate-synchronize-bidirectional-entity-associations/
  - For H2 database and spring data jpa : https://www.baeldung.com/spring-boot-h2-database
 
 ## Sample curl
